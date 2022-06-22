@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Countdown timer</string>
+    <string name="training_time">Training time!</string>
+    <string name="counter_text_view">0</string>
+    <string name="go">GO</string>
+    <string name="stop">STOP</string>
+    <string name="finish_message">Timer has finished</string>
+    <string name="stop_message">Timer has stopped</string>
+</resources>

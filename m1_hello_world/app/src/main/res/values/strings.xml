@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="all_seats_are_free">All seats are free!</string>
+    <string name="minus_button">-1</string>
+    <string name="plus_button">+1</string>
+    <string name="reset">Reset</string>
+    <string name="too_much1">Too much passengers!</string>
+    <string name="_0">0</string>
+    <string name="seats_info">Seats left:</string>
+</resources>

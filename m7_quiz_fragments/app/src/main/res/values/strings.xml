@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="title_home">Home</string>
+    <string name="title_survey">Survey</string>
+    <string name="title_results">Results</string>
+    <string name="get_started">Get started</string>
+    <string name="welcome_text_view">Welcome to Quiz!</string>
+    <string name="back">Back</string>
+    <string name="send">Send</string>
+    <string name="restart">Restart</string>
+    <string name="result_info">You will see the result here. Please, go back and do the survey</string>
+</resources>

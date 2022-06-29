@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mvvm_homework_12</string>
+    <string name="content_message">You will see the content here</string>
+    <string name="search">Search</string>
+    <string name="text_here">Text here</string>
+    <string name="result_info">No results were found for  </string>
+</resources>

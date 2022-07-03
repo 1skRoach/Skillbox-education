@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655875549286",
+    "project_id": "learncast-ffa60",
+    "storage_bucket": "learncast-ffa60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655875549286:android:ad2036eb27310ecc55a5a7",
+        "android_client_info": {
+          "package_name": "com.example.mypoject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655875549286-p4ejimnt1so53fv0t4abccoc9bkopa3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8hpEXbXw7rfEMp3p851PzHbpEDqBNXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655875549286-p4ejimnt1so53fv0t4abccoc9bkopa3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
